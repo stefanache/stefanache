@@ -2,7 +2,7 @@
 <pre>
   <h2>Stefanache Ion</h2>
   
-  Github:  <a href"http://stefanache.github.io/stefanache">stefanache.github.io/stefanache</a>
+  Github:  <a href="http://stefanache.github.io/stefanache">stefanache.github.io/stefanache</a>
 
   Freelancer : <a href="https://www.freelancer.co.ro/u/ionstefanache1">@ionstefanache1</a>
 
