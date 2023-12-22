@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+I recommend you https://www.w3schools.com/git/default.asp
+
 You can https://www.buymeacoffee.com/stefanache... Thanks
 <!--
 **stefanache/stefanache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
